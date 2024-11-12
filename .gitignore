@@ -2,3 +2,5 @@ M4-methods-master
 .DS_Store
 forecasting
 
+__pycache__/
+*.pyc
